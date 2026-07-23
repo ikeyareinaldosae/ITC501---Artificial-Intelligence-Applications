@@ -6,4 +6,4 @@ Include all relevant in-class and online lab activities completed during weeks 1
 
 ## Author
 
-Your Name
+Reinaldo Ikeya | 1035887
