@@ -1,4 +1,4 @@
-# ITC501---Artificial-Intelligence-Applications
+# ITC501 - Artificial Intelligence Applications
 
 # Hi there, I'm Reinaldo Ikeya 👋
 
