@@ -31,9 +31,9 @@
 
 | Project | Description | Tech Stack |
 | :--- | :--- | :--- |
-| **[MISE Mobile App]([https://github.com/yourusername/project1](https://github.com/ikeyareinaldosae/Mise))** | Brief 1-Mise is an application built to bring a innovative and centrelized way of managing kitchen supplies for restaurants. | `React Native` `Firebase` `UI/UX` |
-| **[Returnly Mobile App]([https://github.com/yourusername/project2](https://github.com/ikeyareinaldosae/returnlyapp))** | Brief 1-Returnly is a React Native application built with Expo and Firebase. It moves away from the "public gallery" model of lost-and-found apps, instead using a private matching system to ensure items are returned safely to their rightful owners.. | `TypeScript` `JavaScript` |
-| **[Portfolio Website]([https://github.com/yourusername/project3](https://github.com/ikeyareinaldosae/Reinaldo-Ikeya-Portfolio))** | Brief 1-This was a project where we created a website portfolio. | `JavaScript` `HTML` `CSS` |
+| **[MISE Mobile App]([https://github.com/yourusername/project1](https://github.com/ikeyareinaldosae/Mise))** | Mise is an application built to bring a innovative and centrelized way of managing kitchen supplies for restaurants. | `React Native` `Firebase` `UI/UX` |
+| **[Returnly Mobile App]([https://github.com/yourusername/project2](https://github.com/ikeyareinaldosae/returnlyapp))** | Returnly is a React Native application built with Expo and Firebase. It moves away from the "public gallery" model of lost-and-found apps, instead using a private matching system to ensure items are returned safely to their rightful owners.. | `TypeScript` `JavaScript` |
+| **[Portfolio Website]([https://github.com/yourusername/project3](https://github.com/ikeyareinaldosae/Reinaldo-Ikeya-Portfolio))** | This was a project where we created a website portfolio. | `JavaScript` `HTML` `CSS` |
 
 ---
 
