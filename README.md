@@ -1,6 +1,6 @@
 # ITC501 - Artificial Intelligence Applications
 
-# Hi there, I'm Reinaldo Ikeya 👋
+# Hi there, I'm Reinaldo Ikeya
 
 ### **Software Developer & UI/UX Designer**
 > *Bridging the gap between clean code and intuitive user experiences.*
